@@ -15,3 +15,4 @@
 ##### 11. Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent.
 ##### 12. Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.
 
+schema_diagram.png
