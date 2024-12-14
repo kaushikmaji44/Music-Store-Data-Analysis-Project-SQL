@@ -14,8 +14,4 @@
 ##### 10. Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.
 ##### 11. Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent.
 ##### 12. Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.
-## Tech Stack Used 
-![SQL](https://img.icons8.com/arcade/256/sql.png)
-![Excel](https://img.icons8.com/color/256/microsoft-excel-2019.png)
-## DATA OVERVIEW
-![image](https://github.com/gauraishwarya/Music-Store-Data-Analysis-Project-SQL/blob/main/schema_diagram.png?raw=true)
+
